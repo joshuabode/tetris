@@ -249,6 +249,10 @@ pieces = [Tee, Line, Ess, Zed, Cube, EllA, EllB]
 
 pygame.init()
 screen = pygame.display.set_mode((450, 450))
+pygame.display.set_caption("Tetris by Joshua Bode")
+icon = pygame.image.load('_internal/icon.png')
+pygame.display.set_icon(icon)
+
 clock = pygame.time.Clock()
 boundaries =    [[pygame.Rect(0, 400, 200, 100), "boundary"], 
                 [pygame.Rect(-1, 0, 1, 400), "boundary"],
