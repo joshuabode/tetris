@@ -2,7 +2,7 @@ A version of Tetris created with Pygame
 
 # Installation
 
-1. Download the zip file [here](https://github.com/joshuabode/tetris/releases/download/v0.1.1/tetris.zip)
+1. Download the zip file [here](https://github.com/joshuabode/tetris/releases/download/v0.1.1/tetris-0.1.1.zip)
 2. Extract the folder
 3. Run tetris.exe
 
